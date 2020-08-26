@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightblue;
+    margin-bottom: 5px;
+    margin-right: 15px;
+    padding-bottom: 5px;
+}
+.p-name{
+    color: lightseagreen;
+    font-weight: 400;
+}
+.mainButton{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightslategrey;
+    border-radius: 10px;
+    cursor: pointer;
+}
